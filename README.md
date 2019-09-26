@@ -1,2 +1,4 @@
-# spatial-rest-query-lang
-Demonstrates a custom REST query language with Spring JPA CriteriaBuilder for querying spatial entities in PostGIS
+# sparql
+Demonstrates a custom REST query language with Spring JPA CriteriaBuilder for querying spatial entities in PostGIS.
+
+
