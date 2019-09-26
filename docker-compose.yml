@@ -8,6 +8,6 @@ services:
       - 5432:5432
 
   sparql:
-    image: tschie/sparql:latest
+    image: docker.pkg.github.com/tschie/sparql/sparql:1.0
     ports:
       - 8080:8080
